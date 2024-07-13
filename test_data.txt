@@ -1,0 +1,100 @@
+Item No: 1
+Name: Apple 128GB iPhone 15 5G BLACK
+Price: RM17,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/11629/17207630106690c282f0044.jpeg
+
+Item No: 2
+Name: Apple 64GB iPhone 12 BLACK
+Price: RM12,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/11340/170702637565bf27c73c932.jpeg
+
+Item No: 3
+Name: Apple  256GB  iPhone 14 Pro  Space Black 
+Price: RM19,799.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/11249/17024858196579df3b80e04.jpeg
+
+Item No: 4
+Name: Apple  1TB  iPhone 14 Pro Max  Gold 
+Price: RM43,999.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/11206/17001966066556f0fe3e98b.jpeg
+
+Item No: 5
+Name: Apple  256GB  iPhone 14 Pro  Gold 
+Price: RM29,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/11205/17001965696556f0d90205e.jpeg
+
+Item No: 6
+Name: Apple 128GB iPhone 13 Blue
+Price: RM18,299.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/11165/16993324956549c18fc1b27.jpeg
+
+Item No: 7
+Name: Apple 512GB iPhone 15 Plus GREEN
+Price: RM31,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10351/16970515796526f3bb614c4.jpeg
+
+Item No: 8
+Name: Apple iPhone 15 Pro Max 15 PRO MAX
+Price: RM36,999.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10350/16970515766526f3b82f569.jpeg
+
+Item No: 9
+Name: Apple 512GB iPhone 15 Pro Max Black Titanium
+Price: RM36,999.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10349/16970515696526f3b1efd11.jpeg
+
+Item No: 10
+Name: Apple iPhone 15 Pro Max 15 PRO MAX
+Price: RM36,999.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10348/16970515666526f3aec6fa4.jpeg
+
+Item No: 11
+Name: Apple iPhone 15 Pro Max 15 PRO MAX
+Price: RM42,799.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10347/16970515616526f3a9290e8.jpeg
+
+Item No: 12
+Name: Apple iPhone 15 Pro Max 15 PRO MAX
+Price: RM42,799.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10346/16970515566526f3a464f1e.jpeg
+
+Item No: 13
+Name: Apple 256GB iPhone 15 Pro Max Black Titanium
+Price: RM31,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10345/16970515516526f39f58899.jpeg
+
+Item No: 14
+Name: Apple 256GB iPhone 15 Pro Max Natural Titanium
+Price: RM31,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10344/16970515466526f39ae8d32.jpeg
+
+Item No: 15
+Name: Apple iPhone 15 Pro Max 15 PRO MAX
+Price: RM36,999.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10343/16970515416526f395defaa.jpeg
+
+Item No: 16
+Name: Apple iPhone 15 Pro Max 15 PRO MAX
+Price: RM31,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10342/16970515376526f3918d4b2.jpeg
+
+Item No: 17
+Name: Apple iPhone 15 Pro Max
+Price: RM42,799.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10341/16970515326526f38c75c06.jpeg
+
+Item No: 18
+Name: Apple iPhone 15 Pro BLACK TITANIUM
+Price: RM34,199.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10340/16970515276526f387c38ce.jpeg
+
+Item No: 19
+Name: Apple iPhone 15 Pro
+Price: RM28,599.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10339/16970515236526f383a69ff.jpeg
+
+Item No: 20
+Name: Apple 256GB iPhone 15 Pro Max Blue Titanium
+Price: RM31,499.00
+Image URL: https://cmedia1.nyc3.digitaloceanspaces.com/237/product_images/10338/16970515186526f37eb2b3b.jpeg
+

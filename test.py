@@ -1,14 +1,19 @@
+import csv
 
-newFile_Name = "Satozim -" + "iPhone" + "- Prices.csv"
-newFile = "Scraped Data\{}".format(newFile_Name)
+# Shorten Product Names
+stripped_names = []
+file = r'Scraped Data\Satozim -iPhone- Prices.csv'
 
-print("-> newFile Directory: " + newFile)
 
-tempFile = open(newFile, 'a')
-tempFile.close()
+with open(file, 'r') as file_open:
 
-with open(newFile, 'w') as csv_file:
-    print("-> newFile: " + newFile_Name)
-    csv_file.write("WORKED")
-    csv_file.close()
+    heading = next(file_open)
+    csv = csv.reader(file_open)
 
+    for row in csv:
+        stripped_name = row[1].replace('Apple ', '').strip()
+        stripped_names.append(stripped_name)
+
+file_open.close()
+
+print(stripped_names)
